@@ -1,0 +1,6 @@
+venv/
+venv310/
+venv310_old/
+__pycache__/
+*.py[cod]
+.env
